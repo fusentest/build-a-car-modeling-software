@@ -12,7 +12,8 @@ import {
   Settings, 
   Car,
   Download,
-  Share2
+  Share2,
+  UserPlus
 } from "lucide-react";
 import CarCanvas from "@/components/CarCanvas";
 import ColorPicker from "@/components/ColorPicker";
