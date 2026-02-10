@@ -49,6 +49,10 @@ export default function Index() {
                 <Download className="w-4 h-4 mr-2" />
                 Export
               </Button>
+              <Button variant="default" size="sm" className="bg-accent text-accent-foreground hover:bg-accent/90">
+                <UserPlus className="w-4 h-4 mr-2" />
+                Sign Up
+              </Button>
             </div>
           </div>
         </div>
